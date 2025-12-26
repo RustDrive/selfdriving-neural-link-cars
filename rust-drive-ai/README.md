@@ -1,11 +1,9 @@
 # AI learns to drive
 AI learns to drive in a road-fighter inspired environment
 
-The cars are controlled using a neural network, and are trained using a genetic algorithm.
+The cars are controlled using a neural link network, and are trained using a genetic algorithm.
 
-Built with [Rust](https://www.rust-lang.org/) and [Bevy](https://bevyengine.org/) game engine
-
-![gui](/gui.png)
+Built with [Rust](https://www.rust-lang.org/) 
 
 # Demo
 Here's the entire timelapse of the AI learning to drive
