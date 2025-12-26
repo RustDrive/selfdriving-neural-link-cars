@@ -3,28 +3,6 @@ AI learns to drive in a road-fighter inspired environment
 
 The cars are controlled using a neural link network, and are trained using a genetic algorithm.
 
-Built with [Rust](https://www.rust-lang.org/) 
-
-# Demo
-Here's the entire timelapse of the AI learning to drive
-
-[![youtube](https://img.youtube.com/vi/H7RWcNgE-6s/0.jpg)](https://youtu.be/H7RWcNgE-6s)
-
-# Devlog
-Here's a devlog of how this was built
-
-[![youtube](https://img.youtube.com/vi/Pq1sKS-q1sA/0.jpg)](https://youtu.be/Pq1sKS-q1sA)
-
-## Usage
-- Clone the repo
-    ```
-    git clone git@github.com:bones-ai/rust-drive-ai.git
-    cd rust-drive-ai
-    ```
-- Run the simulation
-    ``` 
-    cargo run --release
-    ```
 ## Configurations
 - The project config file is located at `src/configs.rs`
 
